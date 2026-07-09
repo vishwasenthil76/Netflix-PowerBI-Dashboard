@@ -29,11 +29,6 @@ The dashboard provides insights into:
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
 
 ## 📂 Dataset
 
@@ -56,9 +51,3 @@ Netflix Movies & TV Shows Dataset
 ## 👤 Author
 
 **Vishwanathan S**
-
-LinkedIn:
-(Add your LinkedIn profile)
-
-GitHub:
-(Add your GitHub profile)
